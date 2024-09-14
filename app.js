@@ -10,7 +10,7 @@ const axios = require("axios");
 const app = express();
 const port = process.env.PORT || 5000;
 
-// Replace with your actual API key and external user ID
+
 const apiKey = process.env.UXiuVrPtumGGZE69A4rno4SzasyJ1UlY;
 const externalUserId = process.env.66e2f81df068cd8a42908659;
 
